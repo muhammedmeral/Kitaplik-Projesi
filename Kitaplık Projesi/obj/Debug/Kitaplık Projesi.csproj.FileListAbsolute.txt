@@ -1,0 +1,7 @@
+C:\Users\meral\Desktop\Kitaplik-Projesi\Kitaplık Projesi\bin\Debug\Kitaplık Projesi.exe.config
+C:\Users\meral\Desktop\Kitaplik-Projesi\Kitaplık Projesi\bin\Debug\Kitaplık Projesi.exe
+C:\Users\meral\Desktop\Kitaplik-Projesi\Kitaplık Projesi\bin\Debug\Kitaplık Projesi.pdb
+C:\Users\meral\Desktop\Kitaplik-Projesi\Kitaplık Projesi\obj\Debug\Kitaplık Projesi.csproj.AssemblyReference.cache
+C:\Users\meral\Desktop\Kitaplik-Projesi\Kitaplık Projesi\obj\Debug\Kitaplık Projesi.csproj.CoreCompileInputs.cache
+C:\Users\meral\Desktop\Kitaplik-Projesi\Kitaplık Projesi\obj\Debug\Kitaplık Projesi.exe
+C:\Users\meral\Desktop\Kitaplik-Projesi\Kitaplık Projesi\obj\Debug\Kitaplık Projesi.pdb
